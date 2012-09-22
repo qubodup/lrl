@@ -1,0 +1,38 @@
+<h1>Part I: Intro</h1>
+(calm music)
+<p>Welcome to Low Resolution Land!<br />
+You have to click the <span style="font-weight:bold;color:#e4ff00;">yellow</span> target.<br />
+Your <strong>special glasses</strong> change all colors but the target's. Put them on by <strong>cursor-hovering</strong> the image!<br />
+Please press the <span style="font-weight:bold;color:#e4ff00;">yellow button</span>!</p>
+
+<h1>Part II: Congratulations</h1>
+(victory/lab)
+<p>Well done! The <strong>cursor-hovering glasses</strong> seem to be operational!<br />
+Now join us in the lab for a genetic experiment!<br />
+Please enter the <span style="font-weight:bold;color:#e4ff00;">yellow door</span>!</p>
+
+<p><a href="http://opengameart.org/content/blue-meadow-in-green-sky">Music</a> by yd</p>
+
+<h1>Part III: Problem</h1>
+
+<p>oh no! the mega-monster is getting bigger!</p>
+<p>We cannot control it! You have to cut the yellow power chord!</p>
+
+
+Rescue 1
+
+<p>Good work! But it was too late!</p>
+<p>Dr. Schmier remote-controls the monster to destroy the lab!</p>
+<p>Professor Anders got caught under the rubble from under the rubble to save him!</p>
+
+Rearm 1
+<p>Now it's time to get the heavy stuff!<br />
+<p>We need firepower to take down Dr. Schmier's Mega-Monster control station!</p>
+Pick up the <span style="font-weight:bold;color:#e4ff00;">yellow Ridiculo-Rocket-Launcher (RRL) MARK 4</span> from the gadget closet of colorful tools!</p>
+
+
+Rescue 2
+
+
+
+Restart 1

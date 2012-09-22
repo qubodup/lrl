@@ -1,0 +1,61 @@
+<html>
+<head>
+<title>Low Resolution Land: You The Hero!</title>
+  <link rel="shortcut icon" href="favicon.ico" />
+  <meta property="og:image" content="http://qubodup.github.com/lpl/preview.png" />
+<style type="text/css">
+body {
+  color: #eee;
+  background-color: #333;
+}
+a:link, a:visited, a:active {
+  color: #cceeff;
+  text-decoration: underline;
+}
+a:hover {
+  color: #cceeff;
+  text-decoration: none;
+}
+#wrap {
+  width: 320px;
+  margin: 0 auto;
+}
+#screen {
+  background-image: url("06a.png");
+}
+#screen:hover {
+  background-image: url("06b.png");
+}
+.marker {
+  color: #fe3;
+  font-weight: bold;
+}
+img {
+  cursor: hand !important;
+}
+</style>
+</head>
+<body>
+<div id="wrap">
+  <h1>Part VI: Targeting</h1>
+  <p><strong>CAREFUL!</strong> You're handling a rocket launcher after all!</p>
+  <p>Blow up the <span class="marker">yellow control station</span> but <strong>don't click anything else</strong>, or the whole city might <strong>blow up</strong>!</p>
+  <p><audio src="text-06.ogg" autoplay controls /></p>
+  <p><img id="screen" src="transp.png" usemap="#screenmap" />
+  <map name="screenmap">
+    <area shape="rect" coords="287,233,293,227" href="07-win.html" alt="yellow control station" />
+    <area shape="rect" coords="0,240,287,0" href="07-fail.html" />
+    <area shape="rect" coords="293,240,320,0" href="07-fail.html" />
+    <area shape="rect" coords="287,227,293,0" href="07-fail.html" />
+    <area shape="rect" coords="287,240,293,233" href="07-fail.html" />
+  </map></p>
+  <p><audio id="music" src="06-targeting.ogg" autoplay loop preload="auto" controls /></p>
+  <p><a href="http://opengameart.org/content/the-rush">Music</a> by tebruno99</p>
+<div style="background: url('http://i.imgur.com/GigZ3.png') left no-repeat;padding-left: 112px;height:96px;">
+<p><strong>Nikki and the Robots:<br />Story Episodes</strong></p><p><a href="http://buy.joyridelabs.de/">Buy the retro &amp; innovaitve platformer now!</a></p>
+</div>
+<p style="text-align: right; font-size: 50%; color: grey;">advertisement</p>
+</div>
+<script type="text/javascript">document.getElementById("music").volume=0.5;</script>
+</body>
+</html>
